@@ -1,0 +1,34 @@
+C:\Users\This_user\Desktop\מירי\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\This_user\Desktop\מירי\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

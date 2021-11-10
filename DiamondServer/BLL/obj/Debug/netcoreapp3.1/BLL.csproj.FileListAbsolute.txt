@@ -1,0 +1,48 @@
+C:\Users\This_user\Desktop\מירי\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\This_user\Desktop\מירי\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

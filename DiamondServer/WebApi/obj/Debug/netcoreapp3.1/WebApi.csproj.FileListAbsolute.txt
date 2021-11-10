@@ -1,0 +1,110 @@
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+C:\Users\This_user\Desktop\מירי\WebApi\bin\Debug\netcoreapp3.1\TinyCsvParser.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Desktop\מירי\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Desktop\מירי פלאטו\DiamondTask\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\This_user\Downloads\Diamonds-Server (2)\Diamonds-Server\DiamondServer\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

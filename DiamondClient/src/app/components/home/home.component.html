@@ -1,0 +1,132 @@
+<form  name="form1" id="form1"  style="text-align: center;" >
+<h1 style="color: red;">RapNet</h1>
+
+
+<br>
+<br>
+<div>
+    <h3>Statistics </h3>
+    <mat-form-field class="example-full-width" >
+
+        <mat-label >average price</mat-label >
+    
+          <input   matInput  [(ngModel)]="averageP" name="something" >
+          
+        </mat-form-field>
+
+        <mat-form-field class="example-full-width"  >
+
+            <mat-label >number of diamonds</mat-label >
+        
+              <input  matInput  [(ngModel)]="numberOf" name="numOf" >
+              
+            </mat-form-field>
+            <mat-form-field class="example-full-width" >
+
+                <mat-label >average discount (percentage)</mat-label >
+            
+                  <input  matInput   [(ngModel)]="averageD"  name="averageD">
+                  
+                </mat-form-field>
+
+    
+        
+
+</div>
+
+<table class="center" mdbTable  dir="rtl" style="text-align:center;  "  scrollY="true" >
+  <!-- center;margin-left:38%; -->
+    <thead id="th" style="color: red;">
+      <tr>
+        <th
+          *ngFor="let head of headElements; let i = index" class="blue-text"
+          scope="col">
+          {{head}}
+        </th>
+      </tr>
+    </thead>
+
+    <tbody >
+      <tr *ngFor="let el of listAllDiamonds ; let i = index"  > 
+        <td>{{el.listPrice}}</td>
+        <td>{{el.price}}</td>
+        <td>{{el.clarity}}</td>
+        <td>{{el.color}}</td>
+        <td >{{el.size}}</td>
+        <td >{{el.shape}}</td>
+       </tr>
+
+    </tbody>
+        
+     
+    
+  </table>
+<br>
+
+  <button mat-raised-button style="color: red;" (click)="openDialog(template)">Add Diamond</button>
+
+
+  <ng-template #template >
+    <form id="f1" name="f1" #f1="ngForm" >
+    <h3 style="color: red;text-align: center;">Add Diamond</h3>
+    <mat-label style="text-align-last: center;">Shape</mat-label >
+<br>
+    <mat-form-field class="example-full-width" >
+        <input   matInput id="shape1" type="text" [(ngModel)]="diamond.shape" #shape1="ngModel" name="shape1" required  >
+        
+      </mat-form-field>
+     
+        
+      
+      <br>
+      <mat-label >Size</mat-label >
+        <br>
+      <mat-form-field class="example-full-width" >
+
+  
+        <input type="number"  matInput  [(ngModel)]="diamond.size" name="size"  >
+        
+      </mat-form-field>
+      <br>
+      <mat-label >Color</mat-label >
+        <br>
+      <mat-form-field class="example-full-width"  >
+  
+        <input #color="ngModel"  matInput id="color" [(ngModel)]="diamond.color" name="color"  required  >
+        
+        
+      </mat-form-field>
+      <br>
+      <mat-label >Clarity</mat-label >
+        <br>
+        <mat-form-field class="example-full-width" >
+    
+          <input   matInput  [(ngModel)]="diamond.clarity" name="clarity" required  >
+          
+        </mat-form-field>
+      <br>
+
+        <mat-label >Price</mat-label >
+          <br>
+          <mat-form-field class="example-full-width" >
+      
+            <input  type="number" matInput  [(ngModel)]="diamond.price" name="price" required  >
+            
+          </mat-form-field>
+      <br>
+
+
+          <mat-label >List price</mat-label >
+            <br>
+            <mat-form-field class="example-full-width" >
+        
+              <input  type="number" matInput  [(ngModel)]="diamond.listPrice" name="listPrice" required  >
+              
+            </mat-form-field>
+      <mat-dialog-actions>
+      <button mat-button style="color: red;" [disabled]="diamond.listPrice==0||diamond.price==0||diamond.size==0|| diamond.clarity=='' ||diamond.color==''||diamond.shape=='' "(click)="addDiamond(diamond)" >Add</button>
+      <button mat-button mat-dialog-close  style="color: red;"  >Ccancel</button>
+    </mat-dialog-actions>
+  </form>
+   </ng-template>
+</form>
